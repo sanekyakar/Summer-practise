@@ -1,0 +1,17 @@
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.DR.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.DR.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.Files.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.Interfaces.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.MSSQL.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.Entities.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.Files.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.Interfaces.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.DAL.MSSQL.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\UserAwards.Entities.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\obj\Debug\UserAwards.DAL.DR.csproj.AssemblyReference.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\obj\Debug\UserAwards.DAL.DR.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\obj\Debug\UserAwards.DAL.DR.csproj.CopyComplete
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\obj\Debug\UserAwards.DAL.DR.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.DR\obj\Debug\UserAwards.DAL.DR.pdb

@@ -1,0 +1,9 @@
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\bin\Debug\UserAwards.BLL.Interfaces.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\bin\Debug\UserAwards.BLL.Interfaces.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\bin\Debug\UserAwards.Entities.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\bin\Debug\UserAwards.Entities.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\obj\Debug\UserAwards.BLL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\obj\Debug\UserAwards.BLL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\obj\Debug\UserAwards.BLL.Interfaces.csproj.CopyComplete
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\obj\Debug\UserAwards.BLL.Interfaces.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.BLL.Interfaces\obj\Debug\UserAwards.BLL.Interfaces.pdb

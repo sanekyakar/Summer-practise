@@ -1,0 +1,13 @@
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.DAL.Files.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.DAL.Files.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.DAL.Interfaces.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.Entities.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.DAL.Interfaces.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\UserAwards.Entities.pdb
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\obj\Debug\UserAwards.DAL.Files.csproj.AssemblyReference.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\obj\Debug\UserAwards.DAL.Files.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\obj\Debug\UserAwards.DAL.Files.csproj.CopyComplete
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\obj\Debug\UserAwards.DAL.Files.dll
+C:\Users\sanek\Desktop\Новая папка (2)\Task_7\UserAwards.DAL.Files\obj\Debug\UserAwards.DAL.Files.pdb
